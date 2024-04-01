@@ -2,7 +2,7 @@
 
 ## mkdir api && mkdir web
 
-
+### npx create-react-app web
 ## npm install
 
 ## npm run server
